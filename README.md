@@ -36,7 +36,7 @@ backend/
 ### 1. Clonar el repositorio
 ```bash
 git clone <url-del-repositorio>
-cd API-s-nueva-version
+cd e-commerce_uni_project
 ```
 
 ### 2. Levantar la base de datos
